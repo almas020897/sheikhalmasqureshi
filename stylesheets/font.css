@@ -1,21 +1,21 @@
 @font-face {
   font-family: neueLight;
-  src: url("/fonts/NeueMontreal-Light.otf");
+  src: url("../fonts/NeueMontreal-Light.otf");
 }
 
 @font-face {
   font-family: neueRegular;
-  src: url("/fonts/NeueMontreal-Regular.otf");
+  src: url("../fonts/NeueMontreal-Regular.otf");
 }
 
 @font-face {
   font-family: neueMedium;
-  src: url("/fonts/NeueMontreal-Medium.otf");
+  src: url("../fonts/NeueMontreal-Medium.otf");
 }
 
 @font-face {
   font-family: neueBold;
-  src: url("/fonts/NeueMontreal-Bold.otf");
+  src: url("../fonts/NeueMontreal-Bold.otf");
 }
 
 .fs1 {
